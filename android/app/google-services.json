@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "438181387611",
+    "firebase_url": "https://contact-archive-be1df.firebaseio.com",
+    "project_id": "contact-archive-be1df",
+    "storage_bucket": "contact-archive-be1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438181387611:android:a914e1bdf1502ee2",
+        "android_client_info": {
+          "package_name": "com.example.contactarchive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438181387611-5111vo5nhnq795a99ogbghddkpd63dlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhMNfO1YP748Ifz55VInbut4DTJeAWxh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

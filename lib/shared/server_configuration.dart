@@ -1,0 +1,6 @@
+configuration(){
+  return  {
+    'username': '',
+    'password': ''
+  };
+}
